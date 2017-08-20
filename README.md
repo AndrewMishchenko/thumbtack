@@ -26,5 +26,6 @@ $ source env/bin/activate
 $ pip install -r requirements.txt
 $ python main.py
 ```
+# Using this script, you take full responsibility for the possible consequences of using it!
 
 # Good luck!
